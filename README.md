@@ -6,18 +6,4 @@
   Building digital experiences with clean code & thoughtful design 🚀
 </h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mauricio-molina-p">
-    <img 
-      src="assets/icons/linkedin.webp""
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://mauriciomolina.vercel.app">
-    <img 
-      src="https://img.shields.io/badge/Portfolio-transparent?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/mauricio-molina-p" target="_blank"> <img src="assets/icons/linkedin.webp" width="35" height="35" alt="LinkedIn" /> <a href="mailto:ingmauro8@gmail.com" target="_blank"> <img src="assets/icons/gmail.png" width="35" height="35" alt="Gmail" /> </p>
