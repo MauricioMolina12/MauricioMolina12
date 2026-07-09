@@ -2,8 +2,24 @@
   <img src="assets/images/banner.png" alt="Mauricio Molina Banner" width="100%" />
 </p>
 
-# Hi, I'm Mauricio 👋
+<h1 align="center">
+  Hi 👋, I'm Mauricio Molina
+</h1>
 
-Frontend Developer specializing in Angular with 2+ years of professional experience.
+<h3 align="center">
+  Frontend Developer | Angular Specialist
+</h3>
 
-I enjoy building scalable web applications, creating intuitive user experiences and designing modern interfaces.
+<p align="center">
+  Building modern and scalable web applications with Angular & TypeScript.
+</p>
+
+<p align="center">
+  <a href="https://mauriciomolina.vercel.app">
+    Portfolio
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/mauricio-molina-p">
+    LinkedIn
+  </a>
+</p>
