@@ -10,16 +10,17 @@
 
 ## About Me
 
-I'm a Frontend Developer specialized in Angular with 2+ years of professional experience.
+Frontend Developer specialized in Angular with 2+ years of professional experience building scalable web applications.
 
 I build scalable and maintainable web applications using modern frontend technologies, with a strong focus on user experience, performance and clean architecture.
 
 Beyond coding, I have a passion for UI/UX design, creating interfaces that are not only functional but also enjoyable to use.
 
-🚀 Always learning, improving and exploring new technologies.
+Always learning, improving and exploring new technologies.
 
+<br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Core
 
@@ -132,3 +133,38 @@ Beyond coding, I have a passion for UI/UX design, creating interfaces that are n
     <img src="https://skillicons.dev/icons?i=wordpress" width="50"/>
   </a>
 </p>
+
+<br>
+
+<h2>Professional Experience</h2>
+
+### Frontend Software Developer
+
+**Edutin Academy**
+
+📅 May 2025 — Present
+
+🛠️ `Angular` `TypeScript` `NgRx` `RxJS` `AWS` `GraphQL`
+
+---
+
+### Frontend Developer
+
+**Mercadatos**
+
+📅 Jan 2025 — May 2025
+
+🛠️ `Angular` `TypeScript` `SCSS`
+
+---
+
+### Mobile Developer
+
+**Edutin Academy**
+
+📅 May 2024 — Dec 2024
+
+🛠️ `Angular` `Ionic` `TypeScript` `Kotlin` `AWS`
+
+
+</details>
