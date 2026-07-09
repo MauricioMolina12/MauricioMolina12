@@ -2,24 +2,22 @@
   <img src="assets/images/banner.png" alt="Mauricio Molina Banner" width="100%" />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm Mauricio Molina
-</h1>
-
-<h3 align="center">
-  Frontend Developer | Angular Specialist
-</h3>
+<h2 align="center">
+  Building digital experiences with clean code & thoughtful design 🚀
+</h2>
 
 <p align="center">
-  Building modern and scalable web applications with Angular & TypeScript.
-</p>
-
-<p align="center">
-  <a href="https://mauriciomolina.vercel.app">
-    Portfolio
-  </a>
-  •
   <a href="https://www.linkedin.com/in/mauricio-molina-p">
-    LinkedIn
+    <img 
+      src="assets/icons/linkedin.webp""
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://mauriciomolina.vercel.app">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-transparent?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 </p>
