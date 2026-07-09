@@ -18,35 +18,117 @@ Beyond coding, I have a passion for UI/UX design, creating interfaces that are n
 
 🚀 Always learning, improving and exploring new technologies.
 
+
 ## 🛠️ Tech Stack
 
 ### Frontend Core
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass" />
+  <a href="https://angular.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=angular" width="50"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" width="50"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="50"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  </a>
+
+  <a href="https://sass-lang.com/documentation/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sass" width="50"/>
+  </a>
+
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
+  </a>
 </p>
+
 
 ### Angular Ecosystem
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rxjs" />
-  <img src="https://skillicons.dev/icons?i=ngrx" />
+  <a href="https://rxjs.dev/guide/overview" target="_blank">
+    <img src="https://skillicons.dev/icons?i=rxjs" width="50"/>
+  </a>
+
+  <a href="https://ngrx.io/guide/store" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ngrx" width="50"/>
+  </a>
 </p>
+
 
 ### UI / UX
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <a href="https://help.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" width="50"/>
+  </a>
 </p>
+
 
 ### Tools & Others
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,firebase,vercel" />
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  </a>
+
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  </a>
+
+  <a href="https://github.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  </a>
+
+  <a href="https://nodejs.org/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+  </a>
+
+  <a href="https://firebase.google.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" width="50"/>
+  </a>
+
+  <a href="https://vercel.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
+  </a>
+
+  <a href="https://www.notion.so/help" target="_blank">
+    <img src="https://skillicons.dev/icons?i=notion" width="50"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+  </a>
 </p>
+
 
 ### Other Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,astro,wordpress" />
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  </a>
+
+  <a href="https://vuejs.org/guide/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vue" width="50"/>
+  </a>
+
+  <a href="https://docs.astro.build/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=astro" width="50"/>
+  </a>
+
+  <a href="https://wordpress.org/documentation/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" width="50"/>
+  </a>
 </p>
