@@ -142,9 +142,9 @@ Always learning, improving and exploring new technologies.
 
 **Edutin Academy**
 
-📅 May 2025 — Present
+May 2025 — Present
 
-🛠️ `Angular` `TypeScript` `NgRx` `RxJS` `AWS` `GraphQL`
+`Angular` `TypeScript` `NgRx` `RxJS` `AWS` `GraphQL`
 
 ---
 
@@ -152,9 +152,9 @@ Always learning, improving and exploring new technologies.
 
 **Mercadatos**
 
-📅 Jan 2025 — May 2025
+Jan 2025 — May 2025
 
-🛠️ `Angular` `TypeScript` `SCSS`
+`Angular` `TypeScript` `SCSS`
 
 ---
 
@@ -162,9 +162,9 @@ Always learning, improving and exploring new technologies.
 
 **Edutin Academy**
 
-📅 May 2024 — Dec 2024
+May 2024 — Dec 2024
 
-🛠️ `Angular` `Ionic` `TypeScript` `Kotlin` `AWS`
+`Angular` `Ionic` `TypeScript` `Kotlin` `AWS`
 
 
 </details>
